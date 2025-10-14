@@ -1,0 +1,13 @@
+# template
+[Desktop Entry]
+Type=Application
+Name=myAppName
+Icon=~/myApp/icon.xpm
+Exec=~/myApp/launcher
+Comment=brief description
+Categories=Development;IDE;
+Terminal=false
+
+
+# copy this in ~/.local/share/applications
+# run `update-desktop-database ~/.local/share/applications/`
